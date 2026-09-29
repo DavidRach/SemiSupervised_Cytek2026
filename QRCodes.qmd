@@ -24,6 +24,17 @@ generate_svg(code, filename = StoreHere)
 }
 ```
 
+# These Slides
+
+[Link](https://davidrach.github.io/SemiSupervised_Cytek2026/Rach_SemiSupervised_Cyto2026.pdf)
+
+```{r}
+QR_Helper(url="https://davidrach.github.io/SemiSupervised_Cytek2026/Rach_SemiSupervised_Cyto2026.pdf",
+    output="outputs", 
+    filename="TheseSlidesForToday")
+
+```
+
 # GitHub Repository
 
 # GitHub Repository
